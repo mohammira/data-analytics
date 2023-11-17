@@ -1,0 +1,75 @@
+Average age of fatalities: 26.75 years old
+Youngest fatality: 1.0 year(s) old
+Oldest fatality: 112 years old
+Fatalities by age group:
+<18 : 2239
+18-24 : 3818
+25-34 : 2723
+35-44 : 1002
+45-54 : 616
+55-64 : 323
+65+ : 274
+unidentified : 129
+
+Fatalities by gender
+Male: 9681
+Female: 1423
+Unidentified: 20
+
+Fatalities by citizenship
+Palestinian: 10092
+Israeli: 1029
+Jordanian: 2
+American: 1
+
+Types of injuries/cause of death
+gunfire: 9849
+stabbing: 48
+hit by a vehicle: 18
+explosion: 555
+physical assault: 1
+shelling: 311
+being bludgeoned with an axe: 4
+physically assaulted: 2
+beating: 9
+stones throwing: 6
+Strangulation: 1
+0: 291
+fire: 4
+house demolition: 25
+
+Fatalities by year
+2023: 250
+2022: 205
+2021: 324
+2020: 31
+2019: 146
+2018: 301
+2017: 80
+2016: 116
+2015: 179
+2014: 2326
+2013: 42
+2012: 262
+2011: 130
+2010: 89
+2009: 1059
+2008: 900
+2007: 400
+2006: 681
+2005: 240
+2004: 922
+2003: 732
+2002: 1326
+2001: 348
+2000: 35
+
+Fatalities according to killer
+Israeli security forces: 10000
+Palestinian civilians: 1028
+Israeli civilians: 96
+
+Fatalities by region
+West Bank: 2712
+Gaza Strip: 7733
+Israel: 679
